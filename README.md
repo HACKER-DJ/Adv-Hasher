@@ -13,3 +13,9 @@ Hash generator and Bruteteforce
 
 
 ## instalation
+  
+   git clone https://github.com/HACKER-DJ/Adv-Hasher.git
+    cd Adv-Hasher
+    chmod +x Adv-Hasher.py
+## Run
+  ./Adv-Hasher.py
