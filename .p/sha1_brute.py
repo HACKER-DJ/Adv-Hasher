@@ -20,5 +20,5 @@ for password in passlist.split('\n'):
         print(green + "[*] The Password Is: " + str(password))
         quit()
     else:
-        print(green + "[-] The Password Guess" + str(password) + "Does Not Match, Trying New...")
+        print(red + "[-] The Password Guess" + str(password) + "Does Not Match, Trying New...")
 print("Password is not in password list")
