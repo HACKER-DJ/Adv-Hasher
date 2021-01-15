@@ -23,3 +23,5 @@ Hash generator and Bruteteforce
 
 ## Run
   ./Adv-Hasher.py
+
+## Practical Video
